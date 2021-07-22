@@ -1,0 +1,17 @@
+<></>: tag, 무엇인가를 설명하는 것
+<strong></strong>: 문자 두껍게
+<u></u>: 문자 아래 밑줄
+<h1></h1>: 제목, 중요한 것부터 h1~h6
+<br>: 1줄 넘어가기
+<p></p>: 한 단락을 표현
+<img src="위치" width="100%">: 그림 넣기
+<ul>: <li>의 부모, unordered list
+<li>: 목차, list
+<ol>: <ul>에서 번호 매김이 됨, ordered list
+<title></title>: 타이틀
+<meta charset="utf-8">: 모자 공용어로 읽기
+<!doctype html>: html 문서에 맨 위에 써줌
+<html></html>: 그냥 이거 안에 써줌
+<head></head>: 본문 이외의 것은 여기안에
+<body></body>: 본문은 여기안에
+<a href="링크" title ="설명" target="_blank"></a>: 링크 걸기
